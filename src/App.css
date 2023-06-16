@@ -1,0 +1,13 @@
+body{
+  background-color: rgb(12, 128, 151) !important;
+}
+
+.uploadBoard{  
+  text-align: center;
+  margin-top:10rem;
+}
+
+img.image-item.img-fluid.p-3.active {
+  transform: scale(1.7);  
+  transition: transform 0.3s ease;   
+   }  
